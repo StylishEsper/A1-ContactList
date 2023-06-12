@@ -1,0 +1,8 @@
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A1-ContactList\bin\Debug\A1_ContactList.exe
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A1-ContactList\bin\Debug\A1_ContactList.pdb
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A1-ContactList\bin\Debug\A1_ContactList.A1_ContactList_Program1.idy
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A1-ContactList\obj\Debug\A1-ContactList.cblprojAssemblyReference.cache
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A1-ContactList\obj\Debug\A1-ContactList.cblproj.CoreCompileInputs.cache
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A1-ContactList\obj\Debug\A1_ContactList.exe
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A1-ContactList\obj\Debug\A1_ContactList.pdb
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A1-ContactList\obj\Debug\A1_ContactList.A1_ContactList_Program1.idy
